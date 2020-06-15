@@ -4,7 +4,6 @@ Eine Metafrage ist eine Frage, wo der Hilfesuchende fragt, ob man jemand helfen 
 ## Beispiele
 - `Darf ich etwas fragen?` 
 - `Kennt sich jemand mit Computern aus?`
-- `Kennt sich jemand mit Computern aus?`
 - `Kann mir jemand helfen?`
 - `Kann ich dich mal sprechen?`
 - `Darf ich euch was fragen?`
