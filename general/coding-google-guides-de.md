@@ -22,7 +22,7 @@ Deine Suchanfrage sollte am besten wie folgt aufgebaut sein:
 - `Unity C# Spawn GameObject`
 - `IntelliJ Java Write to file`
 - `Unity C# Create Array`
-- `Android Studio Java Export App
+- `Android Studio Java Export App`
 
 
 ## Was aber, wenn ich einen Fehler bekomme und nicht weiß, woran es liegt?
