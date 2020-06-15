@@ -50,4 +50,4 @@ Zunächst ist die Ursache des Fehlers herauszufinden. Falls dir die ausgiebigere
 Sollte dir diese Guideline nicht zur Bewältigung des Problemes geholfen haben, stehen die jederzeit andere Quellen wie Foren, usw. zur Verfügung, die dir gerne weiterhelfen und Tipps geben.
 
 ## Quellen
-cherryfactory <https://cherryfactory.tech/coding-google-guideline.html>
+Original by cherryfactory <https://cherryfactory.tech/coding-google-guideline.html>
