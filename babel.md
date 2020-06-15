@@ -24,7 +24,7 @@ package.json
 }
 ```
 .babelrc
-````json
+```json
 {
     "presets": [
         "@babel/preset-env",
