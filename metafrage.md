@@ -2,16 +2,18 @@
 Eine Metafrage ist eine Frage, wo der Hilfesuchende fragt, ob man jemand helfen kann.
 
 ## Beispiele
-`Darf ich etwas fragen?` 
-`Kennt sich jemand mit Computern aus?`
-`Kennt sich jemand mit Computern aus?`
-`Kann mir jemand helfen?`
-`Kann ich dich mal sprechen?`
-`Darf ich euch was fragen?`
-`Kann mir jemand mit FTP-Servern helfen?`
-`Ist hier zufällig jemand, der sich mit Scheidungen auskennt?`
-`Hast du Zeit?`
-`Kannst du mal herkommen?`
+- `Darf ich etwas fragen?` 
+- `Kennt sich jemand mit Computern aus?`
+- `Kennt sich jemand mit Computern aus?`
+- `Kann mir jemand helfen?`
+- `Kann ich dich mal sprechen?`
+- `Darf ich euch was fragen?`
+- `Kann mir jemand mit FTP-Servern helfen?`
+- `Ist hier zufällig jemand, der sich mit Scheidungen auskennt?`
+- `Hast du Zeit?`
+- `Kannst du mal herkommen?`
+
+## Fazit
 
 | Vorteile | Nachteile |
 | -------- | --------- |
