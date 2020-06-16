@@ -2,8 +2,8 @@
 
 ## Table of context
 
-* [JFrame](./jframe.md)
+* [JFrame](./jframe-en.md)
 
 ## Inhaltsverzeichnis
 
-* [JFrame](./jframe.md)
+* [JFrame](./jframe-de.md)

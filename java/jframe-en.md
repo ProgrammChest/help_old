@@ -1,4 +1,4 @@
-JFrame example
+# JFrame Example
 
 ```java
 
@@ -10,31 +10,30 @@ import javax.swing.Jpanel;
 
 public class JFrameExample {  
 
-    public static void main(String[] args) { 
- 	
-	//Basics
+    public static void main(String[] args) {
+        //Basics
         JFrame frame = new JFrame("JFrameExample");  
         JPanel panel = new JPanel();  
         panel.setLayout(new FlowLayout());  
 
-	//Components
+        //Components
         JLabel label = new JLabel("Simple JFrame Example");  
         JButton button = new JButton();  
         button.setText("MyButton");  
         panel.add(label);  
         panel.add(button);  
-        frame.add(panel); 
-	
- 	//Window Settings
+        frame.add(panel);
+
+        //Window Settings
         frame.setSize(200, 300);  
         frame.setLocationRelativeTo(null);  
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);  
         frame.setVisible(true);  
-
     }  
-
 }
 ```
-## Quelle
+
+## Source
+
 Discord: $_Dominik#8860 | info@dominikdev.de
   
