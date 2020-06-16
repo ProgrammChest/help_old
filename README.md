@@ -1,4 +1,4 @@
-<img src="./logo-dark.png" height=200 style="float: right">
+<img align="right" src="https://github.com/CodeDoctorDE/help/blob/master/logo-dark.png?raw=true" height="200" width="200">
 
 # help
 
