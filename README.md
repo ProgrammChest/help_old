@@ -7,6 +7,7 @@ Website: <https://codedoctorde.github.io/help/> or <https://dev-doctor.cf/>
 * [Unity](./unity)
 * [General](./general)
 * [JavaScript](./js)
+* [Java](./java)
 
 ## Contributors
 
