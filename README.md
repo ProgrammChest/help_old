@@ -8,3 +8,9 @@ Website: <https://codedoctorde.github.io/help/> or <https://dev-doctor.cf/>
 * [General](./general)
 * [JavaScript](./js)
 * [Java](./java)
+
+## Contributors
+
+* [@louis-e](https://github.com/louis-e)
+* [@CodeDoctorDE](https://github.com/CodeDoctorDE)
+* [@dominikdev-m](https://github.com/dominikdev-m)
