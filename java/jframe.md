@@ -33,4 +33,8 @@ public class JFrameExample {
 
     }  
 
-}  
+}
+```
+## Quelle
+Discord: $_Dominik#8860 | info@dominikdev.de
+  
