@@ -7,3 +7,8 @@ Website: <https://codedoctorde.github.io/help/>
 * [Unity](./unity)
 * [General](./general)
 * [JavaScript](./js)
+
+## Contributors
+
+* [@louis-e](https://github.com/louis-e)
+* [@CodeDoctorDE](https://github.com/CodeDoctorDE)
