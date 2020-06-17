@@ -2,7 +2,7 @@
 *This is a clone of <https://cherryfactory.tech/coding-google-guideline.html>* <br>
 Hallo! Du wurdest auf diese Seite verwiesen, da du eine Fragestellung hattest, die durch eine Google Suche innerhalb von Sekunden gelöst werden könnte.
 
-Das ist kein Problem - und vorallem als Anfänger ganz normal!
+Das ist kein Problem - und vorallem als Anfänger **ganz normal**!
 Damit du in der Zukunft allerdings besser mit der Findung von Lösungen zu deinen Problemen klar kommst, bitten wir dich, dir folgende Guideline durchzulesen.
 
 
