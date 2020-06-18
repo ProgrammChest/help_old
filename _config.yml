@@ -5,7 +5,7 @@ description: >
 show_excerpts: false # set to true to show excerpts on the homepage
 minima:
   social_links:
-    github: codedoctorde
+    github_username: codedoctorde
 header_pages:
   - README.md
   - about.md
