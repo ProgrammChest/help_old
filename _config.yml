@@ -11,3 +11,6 @@ minima:
        instance: github.com/dominikdev-m
      - username: McDochder
        instance: 49-game.com
+  header_pages:
+  - README.md
+  - about.md
