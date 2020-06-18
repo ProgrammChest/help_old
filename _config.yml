@@ -1,1 +1,13 @@
 theme: minima
+
+minima:
+  social_links:
+    github:  
+     - username: CodeDoctorDE
+       instance: github.com/CodeDoctorDE
+     - username: louis-e
+       instance: github.com/louis-e
+     - username: dominikdev-m
+       instance: github.com/dominikdev-m
+     - username: McDochder
+       instance: 49-game.com
