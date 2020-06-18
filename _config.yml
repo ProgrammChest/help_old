@@ -4,7 +4,8 @@ description: >
   For people who code and share!
 show_excerpts: false # set to true to show excerpts on the homepage
 minima:
-  github: codedoctorde
+  social_links:
+    github: codedoctorde
 header_pages:
   - README.md
   - about.md
