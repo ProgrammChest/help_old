@@ -1,6 +1,8 @@
 theme: minima
 
 minima:
+  description: >
+    For people who code and share!
   social_links:
     github:  
      - username: CodeDoctorDE
@@ -11,6 +13,6 @@ minima:
        instance: github.com/dominikdev-m
      - username: McDochder
        instance: 49-game.com
-  header_pages:
+header_pages:
   - README.md
   - about.md
