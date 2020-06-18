@@ -3,7 +3,9 @@ theme: minima
 description: >
   For people who code and share!
 show_excerpts: false # set to true to show excerpts on the homepage
-github_username: codedoctorde
+github_username: 
+- username: codedoctorde
+  instance: github.com/codedoctorde
 header_pages:
   - README.md
   - about.md

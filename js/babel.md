@@ -1,4 +1,7 @@
+# Babel
+
 package.json
+
 ```json
 {
   "name": "NAME",
@@ -23,7 +26,9 @@ package.json
   }
 }
 ```
+
 .babelrc
+
 ```json
 {
     "presets": [
