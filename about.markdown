@@ -4,15 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This site is for everyone who code apps/games or websites.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Contributing
 
+If you have questions or need a tutorial you can find it here. If you have something that you like to share, simpily [fork it and make a pull request](https://github.com/CodeDoctorDE/help/fork)!
 
-[jekyll-organization]: https://github.com/jekyll
+# Über
+
+Diese Webseite ist für jeden, der Apps/Spiele oder Webseiten programmiert.
+
+## Mitmachen
+
+Wenn du Fragen hast oder ein Tutorial brauchst bist du hier richtig. Wenn du etwas haben möchtest, was du gerne teilen möchtest, [fork das Projekt und mache ein Pull Request](https://github.com/CodeDoctorDE/help/fork)!
+
