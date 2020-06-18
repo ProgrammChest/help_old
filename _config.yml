@@ -1,18 +1,19 @@
 theme: minima
 
+description: >
+  For people who code and share!
+show_excerpts: false # set to true to show excerpts on the homepage
 minima:
-  description: >
-    For people who code and share!
   social_links:
     github:  
-     - username: CodeDoctorDE
-       instance: github.com/CodeDoctorDE
-     - username: louis-e
-       instance: github.com/louis-e
-     - username: dominikdev-m
-       instance: github.com/dominikdev-m
-     - username: McDochder
-       instance: 49-game.com
+    - username: CodeDoctorDE
+      instance: github.com/CodeDoctorDE
+    - username: louis-e
+      instance: github.com/louis-e
+    - username: dominikdev-m
+      instance: github.com/dominikdev-m
+    - username: McDochder
+      instance: 49-game.com
 header_pages:
   - README.md
   - about.md
