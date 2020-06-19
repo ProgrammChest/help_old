@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About
-
 This site is for everyone who code apps/games or websites.
 
 ## Contributing
