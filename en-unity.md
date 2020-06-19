@@ -1,7 +1,9 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: default
+title: "English - Unity"
+layout: posts
+category: unity
+lang: en
+permalink: /en/unity
 ---
-{% include_relative README.md %}

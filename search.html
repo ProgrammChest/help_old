@@ -1,0 +1,23 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: "Search"
+layout: page
+---
+<!-- Html Elements for Search -->
+<div id="search-container" style="width: 100%; display: flex; align-items: stretch;flex-direction: column;">
+<input type="text" id="search-input" style="padding: 0.5em 1em; font-family: inherit" placeholder="search...">
+<ul id="results-container"></ul>
+</div>
+
+<!-- Script pointing to search-script.js -->
+<script src="/search.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json'
+})
+</script>

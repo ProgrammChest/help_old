@@ -25,7 +25,7 @@ description: >
 show_excerpts: false # set to true to show excerpts on the homepage
 header_pages:
   - README.md
-  - blog.markdown
+  - search.html
   - about.markdown
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dev-doctor.cf" # the base hostname & protocol for your site, e.g. http://example.com
@@ -34,11 +34,15 @@ github_username:  codedoctorde
 feed:
   categories:
     - news
-    - coding
     - games
+    - js
+    - java
+    - general
     - apps
+    - de
 # Build settings
 theme: minima
+google_analytics: UA-170069781-1
 plugins:
   - jekyll-feed
 

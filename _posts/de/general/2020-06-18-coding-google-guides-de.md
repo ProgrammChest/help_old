@@ -1,4 +1,12 @@
-# Google Coding Guideline
+---
+layout: post
+title:  "Google Coding Guideline"
+date:   2020-06-18 16:17:40 +0200
+category: general
+lang: de
+author: louis-e
+---
+
 *This is a clone of <https://cherryfactory.tech/coding-google-guideline.html>* <br>
 Hallo! Du wurdest auf diese Seite verwiesen, da du eine Fragestellung hattest, die durch eine Google Suche innerhalb von Sekunden gelöst werden könnte.
 
