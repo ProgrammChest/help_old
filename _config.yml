@@ -26,7 +26,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 header_pages:
   - README.md
   - search.html
-  - about.md
+  - en-about.md
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dev-doctor.cf" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  codedoctorde
