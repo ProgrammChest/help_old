@@ -13,7 +13,7 @@ lang-ref: impress
         Jan-Andrej Diehl<br>
         </p><p><strong>Kontakt:</strong> <br>
         Telefon: +49 2133-533911<br>
-        E-Mail: <a href='mailto:wusel905@gmail.com'>wusel905@gmail.com</a></br></p><p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
+        E-Mail: <a href='mailto:wusel905@gmail.com'>wusel905@gmail.com</a><br></p><p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
         Jan-Andrej Diehl <br> 
         Grienskamp 51<br> 
         41539 Dormagen <br></p> <p><strong>Haftungsausschluss: </strong><br><br><strong>Haftung für Inhalte</strong><br><br>
