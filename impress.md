@@ -7,7 +7,7 @@ lang-ref: impress
 ---
 
 <div class='impressum'><h1>Impressum für Dev-Doctor.cf</h1>
-        <i>Gültig nur für die Domain Dev-Doctor.cf und das Repository github.com/CodeDoctorDE/help! Alle anderen Forks oder Kopien sind nicht ausgeschlossen von diesem Impressum</i>
+        <i>Gültig nur für die Domain Dev-Doctor.cf und das Repository github.com/CodeDoctorDE/help! Alle anderen Forks oder Kopien sind ausgeschlossen von diesem Impressum</i>
         <p>Angaben gemäß § 5 TMG</p><p>Jan-Andrej Diehl <br> 
         Grienskamp 51<br> 
         41539 Dormagen <br> 
