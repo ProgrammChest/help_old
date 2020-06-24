@@ -27,6 +27,7 @@ header_pages:
   - README.md
   - search.html
   - en-about.md
+  - impress.md
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dev-doctor.cf" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  codedoctorde
