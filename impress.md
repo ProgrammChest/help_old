@@ -13,8 +13,8 @@ lang-ref: impress
             Grienskamp, 51<br />
             41539 Dormagen</p>
         <h2>Kontakt</h2>
-        <p>Telefon: &#91;Telefonnummer&#93;<br />
-            E-Mail: &#91;E-Mail-Adresse&#93;</p>
+        <p>Telefon: 02133533911<br />
+            E-Mail: janandrejdiehl@gmail.com</p>
         <h3>Haftung f&uuml;r Inhalte</h3>
         <p>Als Diensteanbieter sind wir gem&auml;&szlig; &sect; 7 Abs.1 TMG f&uuml;r eigene Inhalte auf diesen
             Seiten nach den allgemeinen Gesetzen verantwortlich. Nach &sect;&sect; 8 bis 10 TMG sind wir als
