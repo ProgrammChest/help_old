@@ -29,8 +29,8 @@ header_pages:
   - en-about.md
   - impress.md
   - privacy.md
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dev-doctor.cf" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/help" # the subpath of your site, e.g. /blog
+url: "https://codedoctor.tk" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  codedoctorde
 feed:
   categories:
