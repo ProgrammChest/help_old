@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Impressum
-permalink: /impress/
-lang: de
-lang-ref: impress
+permalink: /impress
 ---
 
 <div class='impressum'>

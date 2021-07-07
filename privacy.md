@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Privacy
-permalink: /privacy/
-lang: de
-lang-ref: privacy
+permalink: /privacy
 ---
 
 <div class='datenschutzerklaerung'>

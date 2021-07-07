@@ -3,7 +3,6 @@ layout: post
 title:  "Metafrage"
 date:   2020-06-18 16:17:40 +0200
 category: general
-lang: de
 author: louis-e
 ---
 

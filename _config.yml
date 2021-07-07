@@ -24,7 +24,7 @@ description: >
 show_excerpts: false # set to true to show excerpts on the homepage
 header_pages:
   - README.md
-  - en-about.md
+  - about.md
   - impress.md
   - privacy.md
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -38,7 +38,6 @@ feed:
     - java
     - general
     - apps
-    - de
 # Build settings
 theme: minima
 google_analytics: UA-170069781-1

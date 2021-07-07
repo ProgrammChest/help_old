@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Über
-permalink: /about-de/
-lang: de
-lang-ref: about
+permalink: /about
 ---
 
 Diese Webseite ist für jeden, der Apps/Spiele oder Webseiten programmiert.

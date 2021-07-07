@@ -1,9 +1,8 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: "English - JS"
+title: "Java"
 layout: posts
-category: js
-lang: en
-permalink: /en/js
+category: java
+permalink: /java
 ---
