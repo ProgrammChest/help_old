@@ -19,19 +19,17 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Help
-email: proficodergames@gmail.com
 description: >
   For people who code and share!
 show_excerpts: false # set to true to show excerpts on the homepage
 header_pages:
   - README.md
-  - search.html
   - en-about.md
   - impress.md
   - privacy.md
 baseurl: "/help" # the subpath of your site, e.g. /blog
-url: "https://codedoctor.tk" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  codedoctorde
+url: "https://help.programm-chest.dev" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  ProgrammChest
 feed:
   categories:
     - news
