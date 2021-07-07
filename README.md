@@ -1,9 +1,9 @@
-<img align="right" src="https://github.com/CodeDoctorDE/help/blob/master/logo-dark.png?raw=true" height="200" width="200">
+<img align="right" src="https://github.com/ProgrammChest/help/blob/main/logo-dark.png?raw=true" height="200" width="200">
 
 # help
 
 A repository for common questions/snippets.
-Website: <https://codedoctorde.github.io/help/> or <https://dev-doctor.cf/>
+Website: <https://help.programm-chest.dev>
 
 ## Contributors
 
